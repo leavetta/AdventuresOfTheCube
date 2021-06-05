@@ -19,3 +19,5 @@
 <p align="center"><img src="ExamplePictures/MapOfLevels.png" width="600"/></p>
 
 <h4 align="center"> Picture 5. Map of levels</h4>
+
+<h3>To run the application, clone the repository and then run AdventuresOfTheCube.exe what is placed in the PC_build folder</h3>
